@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions v1.0.0
-	github.com/AzureAD/microsoft-authentication-library-for-go v0.6.1-0.20230119211401-18d183375da4
+	github.com/AzureAD/microsoft-authentication-library-for-go v0.8.0
 )
 
 require (
